@@ -1,1 +1,2 @@
-print("Hello World!")
+user = input("Type your name: ")
+print(f"Hello {user}!")
